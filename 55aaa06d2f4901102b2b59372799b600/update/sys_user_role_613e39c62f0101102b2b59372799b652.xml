@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Admin role for the NeedIt application</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_736865_needit_ap.Admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-16 03:06:32</sys_created_on>
+        <sys_id>613e39c62f0101102b2b59372799b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_736865_needit_ap.Admin</sys_name>
+        <sys_package display_value="Needit app" source="x_736865_needit_ap">55aaa06d2f4901102b2b59372799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit app">55aaa06d2f4901102b2b59372799b600</sys_scope>
+        <sys_update_name>sys_user_role_613e39c62f0101102b2b59372799b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-16 03:06:32</sys_updated_on>
+    </sys_user_role>
+</record_update>

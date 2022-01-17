@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_additional_comments" label="Additional comments" language="en" table="x_736865_needit_ap_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_additional_comments</element>
+            <help/>
+            <hint/>
+            <label>Additional comments</label>
+            <language>en</language>
+            <name>x_736865_needit_ap_needit</name>
+            <plural>Additional comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 17:18:28</sys_created_on>
+            <sys_id>025eaa212f0141102b2b59372799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional comments</sys_name>
+            <sys_package display_value="Needit app" source="x_736865_needit_ap">55aaa06d2f4901102b2b59372799b600</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit app">55aaa06d2f4901102b2b59372799b600</sys_scope>
+            <sys_update_name>sys_documentation_x_736865_needit_ap_needit_u_additional_comments_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 17:18:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

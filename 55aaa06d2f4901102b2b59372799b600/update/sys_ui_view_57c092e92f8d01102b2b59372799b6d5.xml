@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Modified_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 15:09:23</sys_created_on>
+        <sys_id>57c092e92f8d01102b2b59372799b6d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modified view</sys_name>
+        <sys_package display_value="Needit app" source="x_736865_needit_ap">55aaa06d2f4901102b2b59372799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit app">55aaa06d2f4901102b2b59372799b600</sys_scope>
+        <sys_update_name>sys_ui_view_57c092e92f8d01102b2b59372799b6d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 15:09:23</sys_updated_on>
+        <title>Modified view</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

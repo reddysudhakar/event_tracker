@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedIt">12eea4212f8901102b2b59372799b699</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Creat</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_736865_needit_ap_needit</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_736865_needit_ap.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 14:15:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4af146ed2f4d01102b2b59372799b6c0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Creat New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit app" source="x_736865_needit_ap">55aaa06d2f4901102b2b59372799b600</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit app">55aaa06d2f4901102b2b59372799b600</sys_scope>
+        <sys_update_name>sys_app_module_4af146ed2f4d01102b2b59372799b6c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 14:32:43</sys_updated_on>
+        <timeline_page/>
+        <title>Creat New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
